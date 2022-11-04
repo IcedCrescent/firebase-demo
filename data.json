@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "name": "Đại Nguyễn",
+            "age": 16,
+            "email": "dai.nguyen@gmail.com"
+        },
+        {
+            "name": "Hiển Phạm",
+            "age": 15,
+            "email": "hien.pham@gmail.com"
+        },
+        {
+            "name": "Mộng Nhi",
+            "age": 18,
+            "email": "mong.nhi@gmail.com"
+        }
+    ]
+}
